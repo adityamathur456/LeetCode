@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityamathur456/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -26,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -40,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -61,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
