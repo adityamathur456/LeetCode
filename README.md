@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3161-block-placement-queries](https://github.com/adityamathur456/LeetCode/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/adityamathur456/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
