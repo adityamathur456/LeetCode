@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityamathur456/LeetCode/tree/master/0057-insert-interval) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Segment Tree
