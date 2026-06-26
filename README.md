@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3161-block-placement-queries](https://github.com/adityamathur456/LeetCode/tree/master/3161-block-placement-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityamathur456/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Design
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [3161-block-placement-queries](https://github.com/adityamathur456/LeetCode/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityamathur456/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
