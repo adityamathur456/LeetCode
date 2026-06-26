@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3614-process-string-with-special-operations-ii](https://github.com/adityamathur456/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityamathur456/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/adityamathur456/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
