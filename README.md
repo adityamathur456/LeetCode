@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/adityamathur456/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityamathur456/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/adityamathur456/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/adityamathur456/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityamathur456/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
