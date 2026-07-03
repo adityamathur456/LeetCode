@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/adityamathur456/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/adityamathur456/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/adityamathur456/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/adityamathur456/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityamathur456/LeetCode/tree/master/0075-sort-colors) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityamathur456/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityamathur456/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
