@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
 |  |
@@ -226,12 +227,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
