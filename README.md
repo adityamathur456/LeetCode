@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Indexed Tree
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
