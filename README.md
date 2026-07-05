@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityamathur456/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityamathur456/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/adityamathur456/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adityamathur456/LeetCode/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityamathur456/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityamathur456/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityamathur456/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
