@@ -1,0 +1,51 @@
+name: Verify LeetCode Repository
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Compile all Java files
+        run: |
+          find . -name "*.java" -print0 | while IFS= read -r -d '' file
+          do
+            echo "Compiling $file"
+            javac "$file"
+          done
+
+      - name: Verify folders
+        run: |
+          failed=0
+
+          for dir in */ ; do
+            if [ -d "$dir" ]; then
+              java=$(find "$dir" -maxdepth 1 -name "*.java")
+              readme="$dir/README.md"
+
+              if [ -z "$java" ]; then
+                echo "::error::$dir has no Java solution"
+                failed=1
+              fi
+
+              if [ ! -f "$readme" ]; then
+                echo "::error::$dir missing README.md"
+                failed=1
+              fi
+            fi
+          done
+
+          exit $failed
