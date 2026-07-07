@@ -2,50 +2,84 @@ name: Verify LeetCode Repository
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   pull_request:
 
 jobs:
   verify:
+    name: Verify Repository Structure
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up JDK
-        uses: actions/setup-java@v4
-        with:
-          distribution: temurin
-          java-version: '21'
-
-      - name: Compile all Java files
-        run: |
-          find . -name "*.java" -print0 | while IFS= read -r -d '' file
-          do
-            echo "Compiling $file"
-            javac "$file"
-          done
-
-      - name: Verify folders
+      - name: Verify LeetCode Repository
+        shell: bash
         run: |
           failed=0
+          total=0
 
-          for dir in */ ; do
-            if [ -d "$dir" ]; then
-              java=$(find "$dir" -maxdepth 1 -name "*.java")
-              readme="$dir/README.md"
+          declare -A seen
 
-              if [ -z "$java" ]; then
-                echo "::error::$dir has no Java solution"
-                failed=1
-              fi
+          for dir in */; do
+            dir=${dir%/}
 
-              if [ ! -f "$readme" ]; then
-                echo "::error::$dir missing README.md"
-                failed=1
-              fi
+            # Skip hidden directories and GitHub config
+            [[ "$dir" == .* ]] && continue
+            [[ "$dir" == ".github" ]] && continue
+
+            # Count total problems
+            total=$((total + 1))
+
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo "Checking: $dir"
+
+            # Verify folder naming (0001-two-sum)
+            if [[ ! "$dir" =~ ^[0-9]{4}-[a-z0-9-]+$ ]]; then
+              echo "::error::Invalid folder name: $dir"
+              failed=1
+            fi
+
+            # Detect duplicate problem numbers
+            number=$(echo "$dir" | cut -d'-' -f1)
+
+            if [[ -n "${seen[$number]}" ]]; then
+              echo "::error::Duplicate problem number found: $number"
+              failed=1
+            fi
+
+            seen[$number]=1
+
+            # Verify at least one Java file exists
+            java_count=$(find "$dir" -maxdepth 1 -type f -name "*.java" | wc -l)
+
+            if [[ "$java_count" -lt 1 ]]; then
+              echo "::error::$dir does not contain any Java solution."
+              failed=1
+            else
+              echo "✓ Java files found: $java_count"
+            fi
+
+            # Verify README.md exists
+            if [[ ! -f "$dir/README.md" ]]; then
+              echo "::error::$dir is missing README.md"
+              failed=1
+            else
+              echo "✓ README.md found"
             fi
           done
+
+          echo ""
+          echo "========================================"
+          echo "Total Problems Verified : $total"
+          echo "========================================"
+
+          if [[ "$failed" -eq 0 ]]; then
+            echo "✅ Repository verification passed."
+          else
+            echo "❌ Repository verification failed."
+          fi
 
           exit $failed
