@@ -4,7 +4,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "**/*.java"
+
   pull_request:
+    paths:
+      - "**/*.java"
 
 jobs:
   verify:
@@ -30,7 +35,6 @@ jobs:
             [[ "$dir" == .* ]] && continue
             [[ "$dir" == ".github" ]] && continue
 
-            # Count total problems
             total=$((total + 1))
 
             echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
