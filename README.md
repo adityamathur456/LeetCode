@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityamathur456/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adityamathur456/LeetCode/tree/master/0189-rotate-array) |
+| [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityamathur456/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityamathur456/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityamathur456/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityamathur456/LeetCode/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0881-boats-to-save-people](https://github.com/adityamathur456/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [3161-block-placement-queries](https://github.com/adityamathur456/LeetCode/tree/master/3161-block-placement-queries) |
 ## Greedy
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityamathur456/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Union-Find
 |  |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
