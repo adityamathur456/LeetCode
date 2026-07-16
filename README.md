@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityamathur456/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityamathur456/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityamathur456/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adityamathur456/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityamathur456/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityamathur456/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityamathur456/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/adityamathur456/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamathur456/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityamathur456/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3614-process-string-with-special-operations-ii](https://github.com/adityamathur456/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityamathur456/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/adityamathur456/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/adityamathur456/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -393,4 +398,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityamathur456/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
