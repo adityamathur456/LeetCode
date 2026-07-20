@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/adityamathur456/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityamathur456/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/adityamathur456/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamathur456/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityamathur456/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3614-process-string-with-special-operations-ii](https://github.com/adityamathur456/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adityamathur456/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityamathur456/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
