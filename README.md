@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityamathur456/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/adityamathur456/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
