@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityamathur456/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityamathur456/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/adityamathur456/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/adityamathur456/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -463,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/adityamathur456/LeetCode/tree/master/0394-decode-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/adityamathur456/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
