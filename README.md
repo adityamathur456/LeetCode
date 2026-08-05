@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityamathur456/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/adityamathur456/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/adityamathur456/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityamathur456/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Backtracking
 |  |
