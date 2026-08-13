@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityamathur456/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityamathur456/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1405-longest-happy-string](https://github.com/adityamathur456/LeetCode/tree/master/1405-longest-happy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityamathur456/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adityamathur456/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/adityamathur456/LeetCode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/adityamathur456/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/adityamathur456/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1405-longest-happy-string](https://github.com/adityamathur456/LeetCode/tree/master/1405-longest-happy-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityamathur456/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/adityamathur456/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityamathur456/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/adityamathur456/LeetCode/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
+| [1405-longest-happy-string](https://github.com/adityamathur456/LeetCode/tree/master/1405-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/adityamathur456/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
