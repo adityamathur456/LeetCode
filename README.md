@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityamathur456/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityamathur456/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityamathur456/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/adityamathur456/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/adityamathur456/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityamathur456/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityamathur456/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/adityamathur456/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityamathur456/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityamathur456/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityamathur456/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityamathur456/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adityamathur456/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityamathur456/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Hash Function
 |  |
@@ -547,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityamathur456/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Queue
