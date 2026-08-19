@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityamathur456/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/adityamathur456/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityamathur456/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/adityamathur456/LeetCode/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/adityamathur456/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/adityamathur456/LeetCode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/adityamathur456/LeetCode/tree/master/0047-permutations-ii) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Hash Function
@@ -605,4 +609,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
