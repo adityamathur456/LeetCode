@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/adityamathur456/LeetCode/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/adityamathur456/LeetCode/tree/master/0052-n-queens-ii) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -614,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/adityamathur456/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
