@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0140-word-break-ii](https://github.com/adityamathur456/LeetCode/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/adityamathur456/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/adityamathur456/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/adityamathur456/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/adityamathur456/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0427-construct-quad-tree](https://github.com/adityamathur456/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/adityamathur456/LeetCode/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1462-course-schedule-iv](https://github.com/adityamathur456/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -557,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityamathur456/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -579,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Biconnected Component
 |  |
@@ -663,4 +670,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1462-course-schedule-iv](https://github.com/adityamathur456/LeetCode/tree/master/1462-course-schedule-iv) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
