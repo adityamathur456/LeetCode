@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0310-minimum-height-trees](https://github.com/adityamathur456/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/adityamathur456/LeetCode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/adityamathur456/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/adityamathur456/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/adityamathur456/LeetCode/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/adityamathur456/LeetCode/tree/master/1462-course-schedule-iv) |
 ## Bellman–Ford Algorithm
 |  |
