@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/adityamathur456/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2574-left-and-right-sum-differences](https://github.com/adityamathur456/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2707-extra-characters-in-a-string](https://github.com/adityamathur456/LeetCode/tree/master/2707-extra-characters-in-a-string) |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adityamathur456/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3161-block-placement-queries](https://github.com/adityamathur456/LeetCode/tree/master/3161-block-placement-queries) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityamathur456/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityamathur456/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adityamathur456/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/adityamathur456/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/adityamathur456/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityamathur456/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bucket Sort
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adityamathur456/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityamathur456/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityamathur456/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -724,4 +728,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/adityamathur456/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
+## Prime Factorization
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2709-greatest-common-divisor-traversal](https://github.com/adityamathur456/LeetCode/tree/master/2709-greatest-common-divisor-traversal) |
 <!---LeetCode Topics End-->
