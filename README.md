@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1049-last-stone-weight-ii](https://github.com/adityamathur456/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/adityamathur456/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/adityamathur456/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityamathur456/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1049-last-stone-weight-ii](https://github.com/adityamathur456/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/adityamathur456/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -762,8 +764,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adityamathur456/LeetCode/tree/master/0279-perfect-squares) |
+| [1049-last-stone-weight-ii](https://github.com/adityamathur456/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/adityamathur456/LeetCode/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/adityamathur456/LeetCode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
