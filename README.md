@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1871-jump-game-vii](https://github.com/adityamathur456/LeetCode/tree/master/1871-jump-game-vii) |
 | [2707-extra-characters-in-a-string](https://github.com/adityamathur456/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/adityamathur456/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityamathur456/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/adityamathur456/LeetCode/tree/master/1140-stone-game-ii) |
+| [1871-jump-game-vii](https://github.com/adityamathur456/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/adityamathur456/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/adityamathur456/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/adityamathur456/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityamathur456/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/adityamathur456/LeetCode/tree/master/1405-longest-happy-string) |
+| [1871-jump-game-vii](https://github.com/adityamathur456/LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityamathur456/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/adityamathur456/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2707-extra-characters-in-a-string](https://github.com/adityamathur456/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0978-longest-turbulent-subarray](https://github.com/adityamathur456/LeetCode/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/adityamathur456/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/adityamathur456/LeetCode/tree/master/1871-jump-game-vii) |
 ## Union-Find
 |  |
 | ------- |
