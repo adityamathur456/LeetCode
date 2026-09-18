@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/adityamathur456/LeetCode/tree/master/0140-word-break-ii) |
 | [0394-decode-string](https://github.com/adityamathur456/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
+| [0649-dota2-senate](https://github.com/adityamathur456/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/adityamathur456/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/adityamathur456/LeetCode/tree/master/0502-ipo) |
+| [0649-dota2-senate](https://github.com/adityamathur456/LeetCode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/adityamathur456/LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/adityamathur456/LeetCode/tree/master/0860-lemonade-change) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityamathur456/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/adityamathur456/LeetCode/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/adityamathur456/LeetCode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityamathur456/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
