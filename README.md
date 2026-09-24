@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/adityamathur456/LeetCode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/adityamathur456/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/adityamathur456/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/adityamathur456/LeetCode/tree/master/0912-sort-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/adityamathur456/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamathur456/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/adityamathur456/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/adityamathur456/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
