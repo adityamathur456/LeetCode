@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/adityamathur456/LeetCode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/adityamathur456/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/adityamathur456/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/adityamathur456/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/adityamathur456/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityamathur456/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/adityamathur456/LeetCode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/adityamathur456/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/adityamathur456/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/adityamathur456/LeetCode/tree/master/0502-ipo) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/adityamathur456/LeetCode/tree/master/0140-word-break-ii) |
+| [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1137-n-th-tribonacci-number](https://github.com/adityamathur456/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Algorithm X
