@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0140-word-break-ii](https://github.com/adityamathur456/LeetCode/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/adityamathur456/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/adityamathur456/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/adityamathur456/LeetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/adityamathur456/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/adityamathur456/LeetCode/tree/master/0189-rotate-array) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/adityamathur456/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
