@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/adityamathur456/LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/adityamathur456/LeetCode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adityamathur456/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -853,4 +855,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/adityamathur456/LeetCode/tree/master/0899-orderly-queue) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
