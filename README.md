@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/adityamathur456/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityamathur456/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityamathur456/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityamathur456/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adityamathur456/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adityamathur456/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/adityamathur456/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/adityamathur456/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/adityamathur456/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/adityamathur456/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/adityamathur456/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adityamathur456/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
