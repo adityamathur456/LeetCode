@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/adityamathur456/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/adityamathur456/LeetCode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/adityamathur456/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/adityamathur456/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/adityamathur456/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/adityamathur456/LeetCode/tree/master/0463-island-perimeter) |
 | [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/adityamathur456/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adityamathur456/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1192-critical-connections-in-a-network](https://github.com/adityamathur456/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/adityamathur456/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/adityamathur456/LeetCode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1462-course-schedule-iv](https://github.com/adityamathur456/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/adityamathur456/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/adityamathur456/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/adityamathur456/LeetCode/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/adityamathur456/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/adityamathur456/LeetCode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
+| [1254-number-of-closed-islands](https://github.com/adityamathur456/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/adityamathur456/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityamathur456/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
