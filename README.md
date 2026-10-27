@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/adityamathur456/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/adityamathur456/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/adityamathur456/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityamathur456/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adityamathur456/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adityamathur456/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/adityamathur456/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/adityamathur456/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/adityamathur456/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/adityamathur456/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adityamathur456/LeetCode/tree/master/0268-missing-number) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityamathur456/LeetCode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/adityamathur456/LeetCode/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/adityamathur456/LeetCode/tree/master/0397-integer-replacement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
