@@ -4,13 +4,15 @@ class Solution {
             return n == 0 ? 0 : 1;
         }
 
-        int[] dp = new int[n + 1];
-        dp[1] = dp[2] = 1;
+        int tribA = 0, tribB = 1, tribC = 1;
 
         for (int i = 3; i <= n; i++) {
-            dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
+            int tribTemp = tribA + tribB + tribC;
+            tribA = tribB;
+            tribB = tribC;
+            tribC = tribTemp;
         }
 
-        return dp[n];
+        return tribC;
     }
 }
