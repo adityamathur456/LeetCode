@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/adityamathur456/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/adityamathur456/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/adityamathur456/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/adityamathur456/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/adityamathur456/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityamathur456/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/adityamathur456/LeetCode/tree/master/0978-longest-turbulent-subarray) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/adityamathur456/LeetCode/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/adityamathur456/LeetCode/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/adityamathur456/LeetCode/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/adityamathur456/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/adityamathur456/LeetCode/tree/master/0752-open-the-lock) |
 | [0860-lemonade-change](https://github.com/adityamathur456/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/adityamathur456/LeetCode/tree/master/0867-transpose-matrix) |
