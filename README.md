@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/adityamathur456/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityamathur456/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityamathur456/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/adityamathur456/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityamathur456/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityamathur456/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/adityamathur456/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/adityamathur456/LeetCode/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/adityamathur456/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityamathur456/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/adityamathur456/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1834-single-threaded-cpu](https://github.com/adityamathur456/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/adityamathur456/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/adityamathur456/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/adityamathur456/LeetCode/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityamathur456/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityamathur456/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityamathur456/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/adityamathur456/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
