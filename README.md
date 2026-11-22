@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityamathur456/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0063-unique-paths-ii](https://github.com/adityamathur456/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityamathur456/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityamathur456/LeetCode/tree/master/0032-longest-valid-parentheses) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityamathur456/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/adityamathur456/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityamathur456/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/adityamathur456/LeetCode/tree/master/0075-sort-colors) |
@@ -1041,4 +1044,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityamathur456/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/adityamathur456/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
