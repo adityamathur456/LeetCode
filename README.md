@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityamathur456/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/adityamathur456/LeetCode/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/adityamathur456/LeetCode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityamathur456/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1871-jump-game-vii](https://github.com/adityamathur456/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/adityamathur456/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/adityamathur456/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/adityamathur456/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/adityamathur456/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/adityamathur456/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityamathur456/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/adityamathur456/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adityamathur456/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -369,11 +371,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/adityamathur456/LeetCode/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/adityamathur456/LeetCode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/adityamathur456/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityamathur456/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/adityamathur456/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityamathur456/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2013-detect-squares](https://github.com/adityamathur456/LeetCode/tree/master/2013-detect-squares) |
 ## Math
 |  |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/adityamathur456/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/adityamathur456/LeetCode/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/adityamathur456/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityamathur456/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/adityamathur456/LeetCode/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityamathur456/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/adityamathur456/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
